@@ -1,20 +1,34 @@
 /*Site header*/
 .page {background-color:#FFFFFF;
 color: #2E2F42;
-font-family: 'Raleway';
+font-family: Roboto, sans-serif;
+
 }
 ul {
     list-style: none;
 }
 .logo{color:#4D5AE5;
-;}
+
+font-family: Raleway, sans-serif;
+font-style: 700;
+font-size: 18px;
+line-height: 1,2;
+letter-spacing: 3%;
+}
+
 .logo span{color: #2E2F42;
 ;}
 .logo:hover,
 .logo:focus{color: #4D5AE5;}
 
 /*Site nav*/
-.site-nav a{color:#2E2F42;}
+.site-nav a{color:#2E2F42;
+    
+font-style: 500;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 2%;
+}
 .site-nav a:hover,
 .site-nav a:focus{color:#4D5AE5;}
 .auth-nav a{color:#434455;}
