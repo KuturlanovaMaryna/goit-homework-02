@@ -105,7 +105,7 @@ ul {
 
 }
 .header-button :hover ,
-.header-button :focus {
+.header-button :focus{
     background-color: #404BBF;
 }
 
@@ -182,13 +182,11 @@ ul {
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-
-.button :hover ,
-.button :focus{
+.button :hover,
+.button :focus {
     background-color: #404BBF;
     color: #FFFFFF;
-}    
-
+}
 /*Features*/
 .features-name{
     color: #2E2F42;
