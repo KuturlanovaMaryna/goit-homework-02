@@ -66,13 +66,14 @@ ul {
 
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;    
+    line-height: 1.5; 
+    letter-spacing: 0.02em;
     text-decoration: none;
 }
 
 .auth-nav a:hover,
 .auth-nav a:focus {
-    color: var(--accent-color);
+    color: #404bbf;
 }
 /*Header index*/
 .header{
