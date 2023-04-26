@@ -91,7 +91,7 @@ ul {
 }
 
 .header-button{
-    background-color:#4D5AE5;
+    background-color: #4D5AE5;
     color: #FFFFFF;
 
     font-family: inherit;
@@ -116,6 +116,7 @@ ul {
 
 }
 .function-discription{
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 .content-name{
@@ -133,10 +134,13 @@ ul {
     background-color: #F4F4FD;
 }
 .team-name{
+    color: #2E2F42;
+
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     text-align: center;
+    text-transform: capitalize;
 
 }
 .specialist-name{
