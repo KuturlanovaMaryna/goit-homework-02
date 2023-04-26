@@ -105,8 +105,8 @@ ul {
 
 }
 
-.header-but:hover ,
-.header-but:focus{
+.header-button:hover ,
+.header-button:focus{
     background-color: #404BBF;
 }
 
