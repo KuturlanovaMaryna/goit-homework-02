@@ -77,25 +77,30 @@ ul {
 }
 /*Header index*/
 .header{
-     background-color: var(--primary-text-color
-     );
+    background-color: var(--primary-text-color);
+}
+
+.header-title{
      color: #FFFFFF;
      font-weight: 700;
      font-size: 56px;
-     line-height: 1.1;
+     line-height: 1.07;
+     letter-spacing: 0.02em;
      text-align: center;
      
 }
 
 .header-button{
-    background-color: #404BBF;
+    background-color:#4D5AE5;
     color: #FFFFFF;
 
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.04em;
     text-align: center;
+    cursor: pointer;
     
 
 }
@@ -107,9 +112,12 @@ ul {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 
 }
-
+.function-discription{
+    letter-spacing: 0.02em;
+}
 .content-name{
     font-weight: 700;
     font-size: 36px;
