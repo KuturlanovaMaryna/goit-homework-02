@@ -9,7 +9,7 @@
 }
 
 /*Site header*/
-.page {
+body {
     background-color:var(--page-background-color);
     color: var(--additional-text-color);
 
@@ -64,7 +64,6 @@ ul {
 .auth-nav a{
     color:var(--additional-text-color);
 
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5; 
     letter-spacing: 0.02em;
@@ -90,7 +89,7 @@ ul {
      
 }
 
-.header-but{
+.header-button{
     background-color: #4D5AE5;
     color: #FFFFFF;
 
@@ -165,7 +164,6 @@ ul {
 }
 
 .job-title{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -201,7 +199,6 @@ ul {
 .features-chapter{
     color:var(--additional-text-color);
 
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -231,7 +228,6 @@ ul {
 }
 .basement-text{
     color:var(--footer-text-color);
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
 
