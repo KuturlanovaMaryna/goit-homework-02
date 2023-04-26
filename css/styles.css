@@ -25,10 +25,9 @@ ul {
     color:var(--accent-color);
 
     font-family: Raleway, sans-serif;
-    font-style: 700;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.2;
-    letter-spacing: 3%;
     text-decoration: none;
 }
 
@@ -43,10 +42,9 @@ ul {
 .site-nav a{
     color:var(--primary-text-color);
     
-    font-style: 500;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
     text-decoration: none;
 }
 .site-nav a:hover,
@@ -57,28 +55,94 @@ ul {
 .auth-nav a{
     color:var(--additional-text-color);
 
-    font-style: 400;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;    
-    letter-spacing: 2%;
-    text-decoration: none;}
+    text-decoration: none;
+}
 
 .auth-nav a:hover,
 .auth-nav a:focus {
     color: var(--accent-color);
 }
+/*Header index*/
+.header{
+     background-color: var(--primary-text-color
+     );
+     color: #FFFFFF;
+     font-weight: 700;
+     font-size: 56px;
+     line-height: 1.1;
+     text-align: center;
+     
+}
 
-/*Buttons*/
+.header-button{
+    background-color: #404BBF;
+    color: #FFFFFF;
+
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    
+
+}
+
+/*Index Features*/
+.function-name{
+    color: var(--primary-text-color);
+
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+
+}
+
+.content-name{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    text-align: center;
+   
+
+}
+
+/*Index Team*/
+.team{
+
+    background-color: #F4F4FD;
+}
+.team-name{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    text-align: center;
+
+}
+.specialist-name{
+    font-weight:500;
+    font-size: 20px;
+    line-height: 1.2;
+
+}
+
+.job-title{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+/*Buttons portfolio*/
 
 .button{
     background-color: #E7E9FC;
     color: var(--accent-color);
 
     font-family: inherit;
-    font-style: 500;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 4%;
 }
 
 .button:hover ,
@@ -89,46 +153,42 @@ ul {
 
 /*Features*/
 .features-name{
-    font-style: 500;
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
 }
 .features-chapter{
     color:var(--additional-text-color);
 
-    font-style: 400;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
-
 }
 /*Footer*/
 .basement-logo{
     color: var(--accent-color);
     
     font-family: Raleway,sans-serif;
-    font-style: 800;
+    font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 3%;
 }
+
 .basement-logo span {
     color:var(--footer-text-color);
 
     font-family: Raleway, sans-serif;
-    font-style: 800;
+    font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 3%;}
+    }
 .basement{
     background-color: var(--primary-text-color);
 }
 .basement-text{
     color:var(--footer-text-color);
-    font-style: 400;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
 
 }
