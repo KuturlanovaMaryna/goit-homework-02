@@ -55,9 +55,12 @@ ul {
 }
 .site-nav a:hover,
 .site-nav a:focus{    
-        color:var(--primary-text-color);
+        color:#404bbf;
 }
 
+.adress{
+    font-style: normal;
+}
 .auth-nav a{
     color:var(--additional-text-color);
 
