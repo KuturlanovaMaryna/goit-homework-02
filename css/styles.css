@@ -105,8 +105,8 @@ ul {
 
 }
 
-.header-but :hover ,
-.header-but :focus{
+.header-but:hover ,
+.header-but:focus{
     background-color: #404BBF;
 }
 
@@ -184,8 +184,8 @@ ul {
     cursor: pointer;
 }
 
-.button :hover ,
-.button :focus {
+.button:hover ,
+.button:focus {
     background-color: #404BBF;
     color: #FFFFFF;
 }
