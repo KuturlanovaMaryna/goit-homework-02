@@ -21,7 +21,7 @@ ul {
     list-style: none;
 }
 
-.logo{
+.link{
     color:var(--accent-color);
 
     font-family: Raleway, sans-serif;
@@ -30,11 +30,9 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-
-}
-.link{
     text-decoration: none;
 }
+
 
 .logo span{
     color:var(--primary-text-color);
@@ -170,14 +168,14 @@ ul {
     line-height: 1.5;
 }
 /*Footer*/
-.basement-logo{
+/*.basement-logo{
     color: var(--accent-color);
     
     font-family: Raleway,sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-}
+}*/
 
 .basement-logo span {
     color:var(--footer-text-color);
